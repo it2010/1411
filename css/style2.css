@@ -1,0 +1,19 @@
+body{
+    background-image: url("../img/145.jpg");
+    background-size: 1980px 1080px;
+}
+.container{
+    filter: none !important ;
+}
+.aaa{
+    color: white;
+    position: left;
+    left: 25% !important;
+    filter: none;
+    
+}
+.but{
+    background-color: black;
+    color: white;
+    
+}
